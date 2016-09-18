@@ -1,0 +1,10 @@
+/*navigation*/
+div.navbar-ex1-collapse ul li a {
+    text-align: center;
+    background-color: white;
+}
+
+/*body style*/
+.lorem-ipsum {
+    background-color: lightgray;
+}
